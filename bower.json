@@ -1,0 +1,22 @@
+{
+  "name": "lnk-globals",
+  "version": "0.1.0",
+  "authors": [
+    "Anonymous <glamoree@randomminds.com>"
+  ],
+  "description": "CapLnk Component for Create a storage area for variables that web components use to share data and communicate.",
+  "keywords": "lnk-globals, caplnk, polymer, web-components",
+  "main": "lnk-globals.html",
+  "license": "LGPL V3",
+  "homepage": "https://github.com/CapLnk/lnk-globals",
+  "ignore": [
+    "**/.*",
+    "test",
+    "tests",
+    ".bowerrc"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#>=0.4.0 <1.0.0",
+    "polymer-test-tools": "Polymer/polymer-test-tools#>=0.4.0 <1.0.0"
+  }
+}
